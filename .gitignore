@@ -1,3 +1,7 @@
 .cache/
 base*/
 better*/
+e2e-dataset/
+*.zip
+*.txt
+*.csv
