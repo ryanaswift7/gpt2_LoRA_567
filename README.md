@@ -10,17 +10,14 @@ Listed Below are the results collected using the [official E2E NLG Challenge met
 #### Baseline
 Parameter Count: 147,456
 
-BLEU: 0.6476
-NIST: 8.4059
-METEOR: 0.4381
-ROUGE_L: 0.6588
-CIDEr: 2.2413
+| BLEU   | NIST   | METEOR | ROUGE_L|  CIDEr |
+|:------:|:------:|:------:|:------:|:------:|
+| 0.6476 | 8.4059 | 0.4381 | 0.6588 | 2.2413 |
+
 
 #### Improved
 Parameter Count: 2,359,296
 
-BLEU: 0.6882
-NIST: 8.7540
-METEOR: 0.4667
-ROUGE_L: 0.7103
-CIDEr: 2.4537
+| BLEU   | NIST   | METEOR | ROUGE_L|  CIDEr |
+|:------:|:------:|:------:|:------:|:------:|
+| 0.6882 | 8.7540 | 0.4667 | 0.7103 | 2.4537 |
