@@ -4,3 +4,4 @@ improved/
 *.txt
 __pycache__/
 *.ipynb
+gpt2LoRATraining.py
