@@ -1,7 +1,6 @@
 .cache/
-base*/
-better*/
-e2e-dataset/
-*.zip
+baseline/
+improved/
 *.txt
-*.csv
+__pycache__/
+*.ipynb
